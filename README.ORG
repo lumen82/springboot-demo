@@ -1,0 +1,8 @@
+* 收获
+  1. 学习了如何使用springboot 快速搭建web应用
+     http://www.kissyu.org/2017/05/29/Java%20Web%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BC%80%E5%8F%91%EF%BC%9ASpring%20Boot%20+%20Mybatis%20+%20Redis%E4%BD%9C%E4%B8%BA%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98/
+  2. 了解了mybatis的缓存机制
+     http://blog.csdn.net/u012373815/article/details/47069223
+  3. 了解了 redis 在spring中的使用方法
+    开箱即用的redisTemplate和stringTemplat 
+  4. yml配置文件风格类似python，通过缩进来区分属性结构（从属关系）
